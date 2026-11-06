@@ -1,17 +1,21 @@
 # Salut, moi c’est Rio
 
-J’étudie en Techniques de l’informatique au Cégep de Shawinigan. En cours, je programme des robots avec Arduino et je développe des projets web. En parallèle, je gère une boutique Shopify.
+J’étudie en Techniques de l’informatique au Cégep de Shawinigan. Je cherche un stage ou un premier emploi en soutien informatique, en tests logiciels ou en développement web. Je suis ouvert aux possibilités en Mauricie, en mode hybride ou en télétravail depuis le Québec.
 
-## Mon travail sur Shopify
+[LinkedIn](https://www.linkedin.com/in/rio-darry-mepho-ngueudam-19b21b28b/) · [Maison Douce & Compagnie](https://maisondoucecompagnie.com/)
 
-Je gère le catalogue de **Maison Douce & Compagnie**, une boutique de luminaires pour le marché français. Je mets à jour les fiches produit et je travaille sur la navigation et le panier.
+## Projets à explorer
 
-[Visiter Maison Douce & Compagnie](https://maisondoucecompagnie.com/)
+| Projet | Ce qu’on peut voir | Outils |
+| --- | --- | --- |
+| [Développement web](https://github.com/riodarry/javascript) | Une liste de tâches et des exercices sur la manipulation du DOM. | HTML, CSS, JavaScript |
+| [Robotique](https://github.com/riodarry/robotiques_travaux) | Des laboratoires sur la mesure de distance, la commande des moteurs et le déplacement d’un robot. | C++, Arduino |
+| [Maison intelligente](https://github.com/riodarry/maison_intelligentefinal) | Le code source d’un projet de domotique réalisé au cégep. | Arduino |
 
-## Mes projets au cégep
+## Commerce électronique
 
-- **[Travaux de robotique](https://github.com/riodarry/robotiques_travaux)** · Mes laboratoires Arduino en C++.
-- **[Maison intelligente](https://github.com/riodarry/maison_intelligentefinal)** · Mon projet de domotique avec Arduino.
-- **[Développement web en JavaScript](https://github.com/riodarry/javascript)** · Mes exercices et projets web avec HTML, CSS et JavaScript.
+Je gère [Maison Douce & Compagnie](https://maisondoucecompagnie.com/), une boutique de luminaires sur Shopify. Je mets à jour les fiches et les variantes, je compare les caractéristiques et les délais de livraison des fournisseurs, puis je vérifie la navigation et le panier sur mobile.
 
-Je pratique aussi la programmation orientée objet en C# et les bases de données en SQL dans mes cours.
+## Service aux usagers
+
+Au CIUSSS de la Mauricie-et-du-Centre-du-Québec, je travaille en surveillance auprès des usagers comme assistant technique aux soins de la santé. J’ai appris à travailler avec différentes équipes et à m’adapter à leurs consignes. J’aimerais mettre cette expérience au service d’une équipe TI et apprendre à diagnostiquer les problèmes et à documenter mes interventions.
